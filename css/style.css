@@ -1,0 +1,36 @@
+/*Default*/
+body {
+    margin: 0;
+}
+
+/*Logo*/
+
+/*Menu*/
+
+.o-flex {
+    display: flex;
+}
+
+.main-header {
+    position: relative;
+    z-index: 3;
+    align-items: center;
+    justify-content: space-around;
+    padding: 4px 40px;
+}
+
+.list-menu {
+    display: flex;
+    list-style: none;
+    
+}
+
+.list-items {
+    padding-left: 30px;
+}
+
+/*Banners*/
+
+#banners {
+    width: 100%;
+}
