@@ -1,6 +1,7 @@
 /*Default*/
 body {
     margin: 0;
+    width: 100%;
 }
 
 /*Logo*/
@@ -33,4 +34,8 @@ body {
 
 #banners {
     width: 100%;
+
 }
+
+/*Ultimos Projetos*/
+
